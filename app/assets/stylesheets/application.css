@@ -1,0 +1,15 @@
+body{
+	width: 90%;
+}
+.title{
+	word-wrap: break-word;
+}
+.body1{
+	/*max-width: 500px;*/
+	word-wrap: break-word;
+	table-layout: fixed;
+}
+
+.pops{
+	color: green;
+}
